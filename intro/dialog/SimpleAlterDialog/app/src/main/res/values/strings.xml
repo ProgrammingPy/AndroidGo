@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleAlterDialog</string>
+    <string name="dialog_title">dialog title</string>
+    <string name="dialog_msg">This is dialog message</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+</resources>
